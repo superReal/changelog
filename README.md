@@ -1,6 +1,8 @@
 # changelog
 Creates a YML file with metadata of a change entry. Based on [Enquirer](https://github.com/enquirer/enquirer), the powerful Node.js library for creating interactive CLI prompts. 
 
+## DEPRECATED
+This package has been moved to [@deptagency/changelog](https://github.com/deptagency/changelog)
 
 ### Settings
 
